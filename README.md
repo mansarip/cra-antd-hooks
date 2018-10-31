@@ -1,4 +1,4 @@
-#App Boilerplate
+# App Boilerplate
 
 - create-react-app v2
 - React 16.7 (alpha)
